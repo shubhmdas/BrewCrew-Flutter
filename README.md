@@ -21,10 +21,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p>
-<img src="/brew_crew/assets/screenshots/ss0.png" alt="screenshot 0" width="200">
-<img src="/brew_crew/assets/screenshots/ss1.png" alt="screenshot 1" width="200">
-<img src="/brew_crew/assets/screenshots/ss2.png" alt="screenshot 2" width="200">
-<img src="/brew_crew/assets/screenshots/ss3.png" alt="screenshot 3" width="200">
+<img src="/assets/screenshots/ss0.png" alt="screenshot 0" width="200">
+<img src="/assets/screenshots/ss1.png" alt="screenshot 1" width="200">
+<img src="/assets/screenshots/ss2.png" alt="screenshot 2" width="200">
+<img src="/assets/screenshots/ss3.png" alt="screenshot 3" width="200">
 </p>
 
 <p>
